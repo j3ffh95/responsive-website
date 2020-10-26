@@ -105,10 +105,14 @@ img {
 .showcase-form input[type="text"],
 .showcase-form input[type="email"] {
   border: none;
-  border-bottom: solid 1px #333;
+  border-bottom: solid 1px #b4becb;
   width: 100%;
   padding: 3px;
   font-size: 16px;
+}
+
+.showcase-form input:focus {
+  outline: none;
 }
 
 /* Utilities */
