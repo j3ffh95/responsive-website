@@ -74,6 +74,10 @@ img {
   position: relative;
 }
 
+.showcase h1 {
+  font-size: 40px;
+}
+
 /* Utilities */
 .container {
   max-width: 1100px;
