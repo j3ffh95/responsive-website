@@ -43,7 +43,7 @@ img {
 
 /* Navbar */
 .navbar {
-  background: firebrick;
+  background: var(--primary-color);
   color: #fff;
   height: 70px;
 }
@@ -67,6 +67,12 @@ img {
 }
 
 /* Showcase */
+.showcase {
+  height: 400px;
+  background-color: var(--primary-color);
+  color: #fff;
+  position: relative;
+}
 
 /* Utilities */
 .container {
