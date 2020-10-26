@@ -33,6 +33,10 @@
   transform: scale(0.96);
 }
 
+.text-center {
+  text-align: center;
+}
+
 .flex {
   display: flex;
   justify-content: center;
