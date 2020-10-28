@@ -2,6 +2,9 @@
 
 :root {
   --primary-color: firebrick;
+  --secondary-color: rgb(141, 26, 26);
+  --dark-color: rgb(80, 9, 9);
+  --light-color: #f4f4f4;
 }
 
 * {
@@ -161,3 +164,6 @@ img {
 }
 
 /* Cloud */
+.cloud .grid {
+  grid-template-columns: 4fr 3fr;
+}
