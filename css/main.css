@@ -194,7 +194,7 @@ img {
 }
 
 /* Tablets and under */
-/* @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .grid,
   .showcase .grid,
   .stats .grid,
@@ -222,7 +222,7 @@ img {
     grid-column: 1;
     grid-row: 1;
   }
-} */
+}
 
 /* Mobile */
 @media screen and (max-width: 500px) {
