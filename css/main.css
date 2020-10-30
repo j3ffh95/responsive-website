@@ -234,7 +234,7 @@ img {
   border-bottom: #ccc 1px solid;
 }
 
-.docs-main nav ul li:hover {
+.docs-main a:hover {
   font-weight: bold;
 }
 
