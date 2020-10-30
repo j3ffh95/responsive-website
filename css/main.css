@@ -86,6 +86,10 @@ pre {
   position: relative;
 }
 
+.showcase .showcase-text {
+  animation: slideInFromLeft 1s ease-in;
+}
+
 .showcase h1 {
   font-size: 40px;
 }
@@ -250,6 +254,17 @@ pre {
 /* Footer */
 .footer .social a {
   margin: 0 10px;
+}
+
+/* Animations */
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
 }
 
 /* Tablets and under */
