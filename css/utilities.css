@@ -100,6 +100,20 @@
   margin: 15px 0;
 }
 
+.alert i {
+  margin-right: 10px;
+}
+
+.alert-success {
+  background: var(--success-color);
+  color: #fff;
+}
+
+.alert-success {
+  background: var(--success-color);
+  color: #fff;
+}
+
 .flex {
   display: flex;
   justify-content: center;
