@@ -234,6 +234,10 @@ img {
   border-bottom: #ccc 1px solid;
 }
 
+.docs-main nav ul li:hover {
+  font-weight: bold;
+}
+
 /* Footer */
 .footer .social a {
   margin: 0 10px;
