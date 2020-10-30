@@ -199,6 +199,11 @@ img {
   justify-self: flex-end;
 }
 
+/* Main Features */
+.features-main .card > i {
+  margin-right: 20px;
+}
+
 /* Footer */
 .footer .social a {
   margin: 0 10px;
