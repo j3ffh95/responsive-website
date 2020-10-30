@@ -227,6 +227,13 @@ img {
   align-items: flex-start;
 }
 
+.docs-main nav ul li {
+  font-size: 17px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  border-bottom: #ccc 1px solid;
+}
+
 /* Footer */
 .footer .social a {
   margin: 0 10px;
